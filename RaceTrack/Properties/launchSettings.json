@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RaceTrack": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
